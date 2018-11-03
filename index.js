@@ -59,6 +59,6 @@ handlers.helloWorld = (data, callback) => {
 
 
 const router = {
-  'helloworld': handlers.helloWorld
+  'hello': handlers.helloWorld
 
 }
